@@ -1,2 +1,4 @@
-
+*.gmi
+*.html
+*.gph
 .DS_Store
