@@ -52,12 +52,6 @@ In the above example, all the URLs and labels lined up nicely because the author
 => gemini://example.com A supremely cool Gemini capsule
 =>   sftp://example.com
 => mox://filename.mox A Mox file within this same site!
-```
-
-As an example:
-
-=> https://lartu.net Lartu's Website!
-=> mox://other_site_here.mox Other site in this subsite (just an example link)
 
 ## Headings
 
@@ -125,7 +119,7 @@ MoxDown supports images. Images are displayed on their own, on their own line, a
 
 Image lines start with the (img) characters, then the name of the picture, then the alt-text. Both the alt-text and the picture name are trimmed for whitespace on both ends.
 
-(img) dog.png A cute Dog!
+![Lolita the Alien](dog.png)
 
 (That's Lolita the Chihuahua!)
 
