@@ -76,6 +76,10 @@ def get_file_name_without_suffix(filename: str) -> str:
         filename = filename[::-1]
         filename = filename.split(".", maxsplit=2)[1]
         filename = filename[::-1]
+    if "/" in filename:
+        filename = filename.split("/")[-1]
+    if "\\" in filename:
+        filename = filename.split("\\")[-1]
     return filename
 
 
