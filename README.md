@@ -7,7 +7,7 @@ Check `example.mox` for more an example. You can compile it to HTML, Gopher and 
 
 `python3 MOXDown.py example.mox -g127.0.0.1 -p70 -cblack -lblue -v#ff00aa -b#bbddff -u❧ -k☞`
 
-
+![Resulting HTML](sc.png)
 
 # The MoxDown General Documentation
 
