@@ -3,7 +3,10 @@ An HTML, Gopher and Gemini file generator.
 
 The idea is that you write .mox files written in MoxDown markup and then this script generates HTML, Gopher and Gemini files from that source.
 
-Check `example.mox` for more an example.
+Check `example.mox` for more an example. You can compile it to HTML, Gopher and Gemini by running:
+
+`python3 MOXDown.py example.mox -g127.0.0.1 -p70 -cblack -lblue -v#ff00aa -b#bbddff -u❧ -k☞`
+
 
 
 # The MoxDown General Documentation
