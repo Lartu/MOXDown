@@ -52,6 +52,7 @@ In the above example, all the URLs and labels lined up nicely because the author
 => gemini://example.com A supremely cool Gemini capsule
 =>   sftp://example.com
 => mox://filename.mox A Mox file within this same site!
+```
 
 ## Headings
 
