@@ -5,7 +5,7 @@ import sys
 
 # Compilation Configuration
 DEBUG_MODE: bool = True
-VERSION: float = "1.0"
+VERSION: float = "1.1"
 
 # Gopher Configuration
 GOPHER_HOST = "mox.vice.ar"
